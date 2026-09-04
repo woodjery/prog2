@@ -1,0 +1,7 @@
+main.c: In function ‘main’:
+main.c:5:20: warning: unused variable ‘volume’ [-Wunused-variable]
+    5 |     float R, area, volume;
+      |                    ^~~~~~
+main.c:5:14: warning: unused variable ‘area’ [-Wunused-variable]
+    5 |     float R, area, volume;
+      |              ^~~~
