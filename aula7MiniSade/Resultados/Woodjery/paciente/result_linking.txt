@@ -1,0 +1,11 @@
+/usr/bin/ld: Resultados/Woodjery/paciente/main.o: in function `main':
+main.c:(.text+0xc8): undefined reference to `lePaciente'
+/usr/bin/ld: main.c:(.text+0x374): undefined reference to `obtemIdadePaciente'
+/usr/bin/ld: main.c:(.text+0x3c8): undefined reference to `obtemQuatidadeLesoesPaciente'
+/usr/bin/ld: main.c:(.text+0x48f): undefined reference to `obtemQuatidadeLesoesPaciente'
+/usr/bin/ld: main.c:(.text+0x4f7): undefined reference to `obtemLesoesPaciente'
+/usr/bin/ld: main.c:(.text+0x73a): undefined reference to `printPaciente'
+/usr/bin/ld: Resultados/Woodjery/paciente/utils.o: in function `associaLesaoPaciente':
+utils.c:(.text+0x75): undefined reference to `obtemCartaoSusPaciente'
+/usr/bin/ld: utils.c:(.text+0x3af): undefined reference to `insereLesaoPaciente'
+collect2: error: ld returned 1 exit status

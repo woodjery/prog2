@@ -1,0 +1,3 @@
+/usr/bin/ld: Resultados/Woodjery/utils/main.o: in function `main':
+main.c:(.text+0x2ca): undefined reference to `associaLesaoPaciente'
+collect2: error: ld returned 1 exit status

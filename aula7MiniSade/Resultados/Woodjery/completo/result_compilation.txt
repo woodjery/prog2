@@ -1,0 +1,5 @@
+In file included from lesao.c:4:
+lesao.h:5:10: fatal error: constantes.h: No such file or directory
+    5 | #include "constantes.h"
+      |          ^~~~~~~~~~~~~~
+compilation terminated.
