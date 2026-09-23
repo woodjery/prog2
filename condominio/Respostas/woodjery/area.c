@@ -1,28 +1,23 @@
 
-
-#include "area.h"
+#include <stdio.h>
 #include <string.h>
+#include "area.h"
 
 #define MAX_TAM_NOME 100
 #define MAX_TAM_ID 5
 
-typedef struct
-{
-    char nome[MAX_TAM_NOME];
-    char id[MAX_TAM_ID];
-    int capacidade;
-} Area;
+
 
 /**
  * Função que lê uma área comum de acordo com o formato de entrada descrito na
  * especificação e retorna a Area lida.
  */
 Area lerArea(){
-    Area area;
-    scanf(" %[^\n]", area.nome);
-    scanf("%s", area.id);
-    scanf("%d", &area.capacidade);
-    return area;
+    Area a;
+    scanf(" %[^\n]", a.nome);
+    scanf("%s", a.id);
+    scanf("%d", &a.capacidade);
+    return a;
 
 }
 
@@ -34,7 +29,8 @@ Area lerArea(){
 void imprimeArea(Area a){
     printf("Area reservada:\n");
     printf("Nome: %s\n", a.nome);
-
+    printf("Id: %s\n", a.id);
+    printf("Capacidade: %d convidado(s)\n", a.capacidade);
 
 }
 
@@ -58,8 +54,8 @@ int comparaArea(Area a1, Area a2){
 int verificaIdArea(Area a, char *id){
     if(strcmp(a.id , id) == 0){
     return 1;
-        return 0;
      }else{
+        return 0;
    }
 
 }
@@ -68,5 +64,5 @@ int verificaIdArea(Area a, char *id){
  * Função que retorna a capacidade de uma área comum.
  */
 int getCapacidadeArea(Area a){
-    return a.capacidade = 30;
+    return a.capacidade;
 }
