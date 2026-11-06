@@ -1,0 +1,5 @@
+- - - EMPRESTIMOS - - -
+- Data: 17/10/2025
+- Livro: LIV1
+- Usuario: 2021001
+

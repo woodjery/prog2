@@ -1,0 +1,21 @@
+Arquivos Esperados Corretos: 7 de 7
+Pastas Compiladas Corretamente: 4 de 4 
+Pastas Linkadas Corretamente: 4 de 4
+Teste main
+  - Resultados corretos: 0 de 6
+  - Valgrinds corretos: 6 de 6
+Nota de woodjery para o teste main: 0
+Teste emprestimo
+  - Resultados corretos: 6 de 6
+  - Valgrinds corretos: 6 de 6
+Nota de woodjery para o teste emprestimo: 2.00
+Teste livro
+  - Resultados corretos: 6 de 6
+  - Valgrinds corretos: 6 de 6
+Nota de woodjery para o teste livro: 1.50
+Teste usuario
+  - Resultados corretos: 6 de 6
+  - Valgrinds corretos: 6 de 6
+Nota de woodjery para o teste usuario: 1.50
+Nota de woodjery: 0+(1.50)+(0)+(2.00)+(1.50)
+Nota de woodjery: 5.00

@@ -1,0 +1,12 @@
+Arquivos
+	saida.txt=10
+Valgrind
+	desconto=0.0
+Validações
+	main=5.00
+	emprestimo=2.0
+	livro=1.50
+    usuario=1.50
+
+
+LimiteTempo=15

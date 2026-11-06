@@ -70,3 +70,5 @@ void OrdeneCrescente(int * vet, int tam){
         TrocaSeAcharMenor(&vet[i], tam-i, &vet[i]);
     }
 }
+
+

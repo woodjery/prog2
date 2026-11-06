@@ -48,7 +48,7 @@ void ObtemMaiorEMenorPrimo(int m, int n, int *menor, int *maior){
     *menor = -1;
     *maior = -1;
     for(int i = m ; i<= n; i++){
-        if(EhPrimo(i) == 1){
+        if(EhPrimo(i)){
             if(*menor == -1){
             *menor = i;
         }

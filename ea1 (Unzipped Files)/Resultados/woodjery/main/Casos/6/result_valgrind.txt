@@ -1,0 +1,6 @@
+==18247== Memcheck, a memory error detector
+==18247== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==18247== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==18247== Command: Resultados/woodjery/main/prog Resultados/woodjery/main/Casos/6
+==18247== Parent PID: 18246
+==18247== 

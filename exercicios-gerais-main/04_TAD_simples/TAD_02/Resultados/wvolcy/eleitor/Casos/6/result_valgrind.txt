@@ -1,0 +1,15 @@
+==9055== Memcheck, a memory error detector
+==9055== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==9055== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==9055== Command: Resultados/wvolcy/eleitor/prog Resultados/wvolcy/eleitor/Casos/6
+==9055== Parent PID: 9054
+==9055== 
+==9055== 
+==9055== HEAP SUMMARY:
+==9055==     in use at exit: 0 bytes in 0 blocks
+==9055==   total heap usage: 2 allocs, 2 frees, 8,192 bytes allocated
+==9055== 
+==9055== All heap blocks were freed -- no leaks are possible
+==9055== 
+==9055== For lists of detected and suppressed errors, rerun with: -s
+==9055== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)

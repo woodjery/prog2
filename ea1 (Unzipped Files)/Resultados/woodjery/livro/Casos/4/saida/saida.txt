@@ -1,0 +1,9 @@
+- - - EMPRESTIMOS - - -
+- Data: 20/10/2025
+- Livro: LIVC
+- Usuario: 2021004
+
+- Data: 21/10/2025
+- Livro: LIVC
+- Usuario: 2021004
+

@@ -1,0 +1,12 @@
+{
+	"alunos": [
+		{
+			"Nome":"woodjery",
+			"Nota":10.00
+		},
+		{
+			"Nome":"woodjery/.git",
+			"Nota":0
+		}
+	]
+}

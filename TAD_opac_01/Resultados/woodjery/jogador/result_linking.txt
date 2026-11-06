@@ -1,0 +1,6 @@
+/usr/bin/ld: Resultados/woodjery/jogador/jogo.o: in function `ComecaJogo':
+jogo.c:(.text+0xfc): undefined reference to `JogaJogador'
+/usr/bin/ld: jogo.c:(.text+0x116): undefined reference to `VenceuJogador'
+/usr/bin/ld: jogo.c:(.text+0x158): undefined reference to `JogaJogador'
+/usr/bin/ld: jogo.c:(.text+0x172): undefined reference to `VenceuJogador'
+collect2: error: ld returned 1 exit status
